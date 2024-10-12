@@ -51,7 +51,7 @@ I'm active on LeetCode, solving problems regularly. Check out my profile and pro
 
 
 ## Let's Connect
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ragav-r-bb9183308/) or via email at ragavrunner33@gmail.com!
+Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/ragav-r-bb9183308/) or via email at ragavrunner33@gmail.com!
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
