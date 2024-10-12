@@ -48,7 +48,7 @@ I'm active on LeetCode, solving problems regularly. Check out my profile and pro
 **Problem Count:** XX (You can update this)  
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Ragav_R/)
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/_sameei_?theme=dark&font=Poppins&ext=contest" alt="_sameei_ LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Ragav_R?theme=dark&font=Poppins&ext=contest" alt="Ragav_R LeetCode Stats"/>
 </p>
 <br/>
 <hr/>
