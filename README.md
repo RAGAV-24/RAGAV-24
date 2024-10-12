@@ -46,7 +46,9 @@ A system for students to claim Official Duty (OD) for academic events, where tea
 ## LeetCode
 I'm active on LeetCode, solving problems regularly. Check out my profile and problem-solving streaks!  
 **Problem Count:** XX (You can update this)  
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Ragav-R24/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Ragav_R/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ragav_R)
+
 
 ## Let's Connect
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ragav-r-bb9183308/) or via email at ragavrunner33@gmail.com!
