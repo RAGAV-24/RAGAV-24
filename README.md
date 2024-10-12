@@ -2,7 +2,7 @@
 
 I'm a passionate **Artificial Intelligence and Data Science** student with a deep interest in **Full-Stack Development** and **AI-driven solutions**. I love building innovative projects that solve real-world problems using technology.
 
-## 🛠 Skills & Technologies
+##  Skills & Technologies
 
 ###  Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,7 +19,7 @@ I'm a passionate **Artificial Intelligence and Data Science** student with a dee
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠 Tools & Platforms
+###  Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -45,7 +45,7 @@ A system for students to claim Official Duty (OD) for academic events, where tea
 
 ## LeetCode
 I'm active on LeetCode, solving problems regularly. Check out my profile and problem-solving streaks!  
-**Problem Count:** XX (You can update this)  
+
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Ragav_R/)
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Ragav_R?theme=dark&font=Poppins&ext=contest" alt="Ragav_R LeetCode Stats"/>
