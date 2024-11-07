@@ -1,4 +1,4 @@
-## Hi there <img align="right" width="70" height="70" src="https://media.giphy.com/media/8nYhz7lTf2dFhglGGH/giphy.gif"> It's me [Ragav R](https://ragavs-profile.netlify.app/)
+## Hi there  It's me [Ragav R](https://ragavs-profile.netlify.app/)
 
 Full-Stack Developer | Artificial Intelligence and Data Science Student  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
