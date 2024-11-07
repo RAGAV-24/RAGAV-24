@@ -1,62 +1,30 @@
-# Hi, I'm [Ragav R](https://ragavs-profile.netlify.app/)
 
-I'm a passionate **Artificial Intelligence and Data Science** student with a deep interest in **Full-Stack Development** and **AI-driven solutions**. I love building innovative projects that solve real-world problems using technology.
+## Hi there 👋 It's me Ragav R
 
-##  Skills & Technologies
+Full-Stack Developer | Artificial Intelligence and Data Science Student  
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-###  Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🔭 Here's my [portfolio](https://ragavs-profile.netlify.app/)                                                
+- 🌱 I’m currently learning DSA and enhancing my Full-Stack Development skills.
+- 👯 I’m looking to collaborate on AI-driven projects and real-world problem-solving solutions.
+- 🤔 I’m exploring opportunities in Full-Stack Development and AI fields.
+- 💬 Ask me about Technology, AI, and Full-Stack Development.
+- 📫 How to reach me:
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ragav-r-bb9183308/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m a LeetCode enthusiast!
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
-###  Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/notion--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 
-###  Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
+![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAGAV-24&theme=radical&show_icons=true)
 
-### My Projects
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Ragav_R?theme=dark&ext=contest)](https://leetcode.com/Ragav_R/)
 
-### [AI-powered Resume Builder](https://github.com/RAGAV-24/shine)
-An innovative tool that helps users create professional resumes using AI-powered recommendations and customized templates.  
-**Technologies Used:** Python, Flask, MongoDB, HTML, CSS
-
-### [OD Claimer](https://github.com/RAGAV-24/od-claimer)
-A system for students to claim Official Duty (OD) for academic events, where teachers can approve or reject claims, and event coordinators can update upcoming events.  
-**Features:**  
-- Student dashboard for tracking OD records and applying for new ones.
-- Teacher role for approving or rejecting OD requests.
-- Event coordinator role for updating event details.
-**Technologies Used:** React, MongoDB, Node.js, Express.js
-
-
-
-## GitHub Stats
-![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAGAV-24&show_icons=true&theme=radical)
-
-## LeetCode
-I'm active on LeetCode, solving problems regularly. Check out my profile and problem-solving streaks!  
-
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Ragav_R/)
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ragav_R?theme=dark&font=Poppins&ext=contest" alt="Ragav_R LeetCode Stats"/>
-</p>
-<br/>
-<hr/>
-
-
-## Let's Connect
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/ragav-r-bb9183308/) or via email at ragavrunner33@gmail.com!
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Ragav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAGAV-24&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
