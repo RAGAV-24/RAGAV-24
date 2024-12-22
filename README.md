@@ -29,5 +29,3 @@ Full-Stack Developer | Artificial Intelligence and Data Science Student
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Ragav_R?theme=dark&ext=contest)](https://leetcode.com/Ragav_R/)
 
-[![Ragav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAGAV-24&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
