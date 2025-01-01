@@ -57,5 +57,3 @@
 - 💻 LeetCode 300+ problems solved  
 
 ---
-
-Let's connect and build something amazing together! 🚀
